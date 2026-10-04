@@ -1,0 +1,3 @@
+gradio
+openai
+python-dotenv  # optional: lets app.py read a local .env file (plain env vars always work too)
